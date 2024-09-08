@@ -167,4 +167,4 @@ const IndexPage = () => {
 
 export default IndexPage;
 
-export const Head = () => <title>Home Page</title>;
+export const Head = () => <title>Gasby Page Blog By metoushela walker</title>;
